@@ -2,7 +2,7 @@
 
 This repository contains code from **Data Structures & Algorithm** Labs. The following labs include the implementation of basic data structures like **Queue**, **Linked List**, and the usage of the **deque** from Python's `collections` module.
 
-## 📚 Exercise 1 - Queue Implementation
+## Exercise 1 - Queue Implementation
 
 In Exercise 1, we implemented a **Queue** data structure. The code demonstrates the following:
 
@@ -19,7 +19,7 @@ The code also demonstrates the use of Python's **deque** for queue-like operatio
 - `isempty()`
 - Operations using **collections.deque** like `append()`, `appendleft()`, `pop()`, `popleft()`, and `clear()`.
 
-## 📚 Exercise 2 - Linked List Implementation
+## Exercise 2 - Linked List Implementation
 
 In Exercise 2, we implemented a **Singly Linked List**. The following operations are performed:
 
@@ -39,7 +39,7 @@ In Exercise 2, we implemented a **Singly Linked List**. The following operations
 - `insert()`
 - `appendbefore()`
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python**: Used to implement the Queue and Linked List data structures.
 - **collections.deque**: A deque is used to demonstrate efficient operations on both ends of the list.
